@@ -72,3 +72,10 @@ html{
 .curiosidades-container li{
 	height: 30px;
 }
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 14px;
+  color: #555;
+}
